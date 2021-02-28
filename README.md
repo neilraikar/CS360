@@ -1,3 +1,1 @@
-# CS360
-
-Hello
+# hello-world
